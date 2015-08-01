@@ -1,0 +1,24 @@
+*~
+#*#
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Outputs
+TAGS
+raft
+test
+bin/*
+g_*.c
+*.gcov
